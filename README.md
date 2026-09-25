@@ -188,4 +188,6 @@ in Power BI Desktop, or view the [live interactive dashboard](https://app.fabric
 - GitHub: [github.com/seema-kri](https://github.com/seema-kri)
 - LeetCode: [leetcode.com/u/seemakri136/](https://leetcode.com/u/seemakri136/)
 
- ## ⭐ If you found this project useful
+ ## ⭐ If this project was useful, a star on the repo is appreciated.
+
+
